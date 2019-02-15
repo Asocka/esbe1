@@ -27,39 +27,39 @@ cl.log("Auth Token : " + str(cl.authToken))
 channel = LineChannel(cl)
 cl.log("Channel Access Token : " + str(channel.channelAccessToken))
 
-ki = LineClient(authToken="EBzShvWj4MoSkeqo82B0.KDxryEctushMixYB2tqq8a.xPLTKDeZQbwAXY3OdoZnJjhhrKw3E4syZWJwVZ55dq0=")
+ki = LineClient(authToken="ECN3afsIy7QxUhZ8uhj0.KDxryEctushMixYB2tqq8a.OMyFHF+xBGdhJlZocDbtDVqvbZQBtU8ZRRGLXUwNi5I=")
 ki.log("Auth Token : " + str(ki.authToken))
 ki.log("Channel Access Token : " + str(channel.channelAccessToken))
 
-kk = LineClient(authToken="EBSsRaNhOgneq9CGcKH7.XyqRl2wN7JgmhVtSwdySHW.Ti73eHNPlbsuicaT+s0gP9njoJxT2QJhzoRUz4ee6Kg=")
+kk = LineClient(authToken="EC1pAmoLYiqI9EhO7Zb7.XyqRl2wN7JgmhVtSwdySHW.DY0xwjW68pjx3amS9QKrhk0KaoIufv4VKdkpORdiqHo=")
 kk.log("Auth Token : " + str(kk.authToken))
 kk.log("Channel Access Token : " + str(channel.channelAccessToken))
 
-kc = LineClient(authToken="EB1z3SWgE9ygidoVrvnf./vSiiTuUuLcD+1Saj5ZuNW.ngnUpGkvn5Xb/j6mroIOpkgElMA+RsIeiuaHnKCLPTw=")
+kc = LineClient(authToken="ECJ2eKqyNOdUoIKilR0f./vSiiTuUuLcD+1Saj5ZuNW.LsCm6kiH5bSPzXqPxL+kTa82a5JDA77nrQEjoYWU/5E=")
 kc.log("Auth Token : " + str(kc.authToken))
 kc.log("Channel Access Token : " + str(channel.channelAccessToken))
 
-kb = LineClient(authToken="EB123TrZnInzdgImEAj4.b7JTGnuMPARaE3cJcJZ3Ha.5saKCq+gOQTU9lhdGVSbC6aYCSKlEvRO4aIkSnOBJAs=")
+kb = LineClient(authToken="ECSbvCgRxTiOhV7upLY4.b7JTGnuMPARaE3cJcJZ3Ha.HJ+/8ZSNPw0kbHhTj3pxEAbbIRwGhI0WpK5o73w90is=")
 kb.log("Auth Token : " + str(kb.authToken))
 kb.log("Channel Access Token : " + str(channel.channelAccessToken))
 
-kd = LineClient(authToken="EBco3RbvcEAzan8mj319.5rCPn1fJmkDjbG2Uwg9E/q.+cIhr0qzC3egbUVMk5KT/YEu91qIDezoj3hfwF6e2CI=")
+kd = LineClient(authToken="ECJhrsRor4vjFm5mRbN9.5rCPn1fJmkDjbG2Uwg9E/q.pgS0dmiyOzVX5+DY/LSaDJG9/UevZ0v8ZlszZTgUo0w=")
 kd.log("Auth Token : " + str(kd.authToken))
 kd.log("Channel Access Token : " + str(channel.channelAccessToken))
 
-ke = LineClient(authToken="EBASXOzYr5Lkc2zWIVce.XpLYSQ+SXsk7sgv1s+Ml3G.GCcJClFKfy4ZSFTheNzAUqS9hzYB82C59MAcOW53kw0=")
+ke = LineClient(authToken="ECLDcaJAgE8XVSZhKsue.XpLYSQ+SXsk7sgv1s+Ml3G.COB6di8DqQv1VzmyYxxIyTn+3K/zl4q5nvhARIW+KgQ=")
 ke.log("Auth Token : " + str(ke.authToken))
 ke.log("Channel Access Token : " + str(channel.channelAccessToken))
 
-kf = LineClient(authToken="EBW5eVsrB0hr8lrCsqCc.FXeH1zqx1Cx5fWaPEzCl+a.8Kfnj1A1yK5PVuKsKdo4XtoOzrRsZ/rdNpZmAN9jQw4=")
+kf = LineClient(authToken="ECKaRya4wiSJRvWjKz8c.FXeH1zqx1Cx5fWaPEzCl+a.LNyXgrbtmie+qWhGQmAo0BOb6RdQJztaL2B5ubbcHwA=")
 kf.log("Auth Token : " + str(kf.authToken))
 kf.log("Channel Access Token : " + str(channel.channelAccessToken))
 
-kj = LineClient(authToken="EBHo8xV0pkbqvbfYayg8.QVXPIKhd0ncZ47k+nVqhAa.EUeDGZLAduwpjAKaiWQic8a2oWUyUXKNUv0olvQ84fg=")
+kj = LineClient(authToken="ECHNmi8H4Zsh9zChNkR8.QVXPIKhd0ncZ47k+nVqhAa.YcUNPejEMOQ0kbmjPdQjwdn5pmYNoSjMIe0ewxp5JVI=")
 kj.log("Auth Token : " + str(kj.authToken))
 kj.log("Channel Access Token : " + str(channel.channelAccessToken))
 
-sw = LineClient(authToken="EBvicSehlFqLFmobiCFc.p9istp2Y85W+AzN3vgIF+a.9QDnA3kFebBB6OZLxtzA9oARMb4oqyjDLQANwqJMBRU=")
+sw = LineClient(authToken="ECmgCK4p9hlNy4Tip98c.p9istp2Y85W+AzN3vgIF+a.UYe3y6vBviF3J2H7EEVVla8jbrx//aSImK2cRtgcroc=")
 sw.log("Auth Token : " + str(sw.authToken))
 sw.log("Channel Access Token : " + str(channel.channelAccessToken))
 print("\nBOT MULAI BERJALAN.......\n")
