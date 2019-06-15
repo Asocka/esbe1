@@ -1,14 +1,9 @@
-# Sbpro-DK
-Dzulkifli-DK
-BOT PROTECT PY3 ANTI JS DK-BOT LINEbirdFIXS UPDATE:Kamis 13 DESEMBER 2018
-GET TOKEN :
-Google Chrome
-https://github.com/Dzulkiflibot/Sbpro-DK.git
+# Sbpro-1
 Cara Install Bot :
 HEADER CHROME
 
+###
 C9 SERVER/ VPS :
-
 sudo apt-get update -y
 sudo apt-get install git -y
 sudo apt-get install python3-pip -y
@@ -25,9 +20,11 @@ sudo pip3 install pafy
 sudo pip3 install wikipedia
 sudo pip3 install tweepy
 sudo pip3 install youtube_dl
-`https://github.com/Dzulkiflibot/Sbpro-DK.git
-cd Sbpro-DK
-python Kifli12.py
+`https://github.com/PHIEZUKE/UP1
+cd UP1
+python BUY.py
+
+###
 INSTALL Di TERMUX :
 
 pkg update
@@ -46,21 +43,18 @@ pip3 install goslate
 pip3 install wikipedia
 pip3 install youtube_dl
 pip3 install tweepy
-https://github.com/Dzulkiflibot/Sbpro-DK.git
-`cd Sbpro-Dk
-python3 kiflisb.py
+https://github.com/PHIEZUKE/UP1
+`cd UP1
+python3 BUY.py
+
+
+###
 Cara Menjalankan Bot Kembali :
 Di C9 :
+`cd UP1
+`python3 BUY.py
 
-`cd DKBOT-ANTIJS
-`python3 kiflisb.py
+###
 Di Termux :
-Join SQ DKBOT,Silahkan di klik : [DKBOT] Anda diundang ke obrolan "DKBOT".
-https://line.me/ti/g2/cOzpzeS3PFKAT2lNYgoRHua41-k3EUXSzyHkzconoxZfiIWABf6iqre9f5mjbpz_
-cd SbproDK
-python3 kifli12.py
-EDITOR BY DZULKIFLI
-Add My ID LINE :http://line.me/ti/p/~reza.p.i.p pakai titik ya 😂 #cuma saran bukan menggurui sweat_smile #aku juga masih pekok kuadrat
-Thx To : ALLOH SWT & All
-SALAM HORMAT BUAT PARA MASTAH SEMUANYA 😅
-i'm happy's to meet you
+cd UP1
+python3 BUY.py
